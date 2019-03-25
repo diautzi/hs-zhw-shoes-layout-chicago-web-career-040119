@@ -25,6 +25,7 @@
 /* Positioning Classes */
 #details {
   column-count: 3;
+  column-span: all;
   column-rule: 0.5px;
   margin-top: 0;
   margin-left: 12%;
